@@ -12,7 +12,7 @@ Makes your discord account look like it is always typing in a certain channel
   ```
   ### 🍎MacOS🍎
   Install python from here:
-  ![Python macOS downloads](https://www.python.org/downloads/macos/)
+  [Python macOS downloads](https://www.python.org/downloads/macos/)
   
   Open a terminal
   ```
@@ -22,7 +22,7 @@ Makes your discord account look like it is always typing in a certain channel
   ```
   ### 🪟Windows🪟
   Install python from here:
-  ![Python Windows downloads](https://www.python.org/downloads/windows/)
+  [Python Windows downloads](https://www.python.org/downloads/windows/)
   
   Open a command prompt window
   ```
@@ -34,10 +34,10 @@ Makes your discord account look like it is always typing in a certain channel
   ![unzipimg1](https://cdn.discordapp.com/attachments/1027204530644988004/1046759736906874941/unzip.png)
   
   Replace the YOUR_DISCORD_TOKEN with your discord token which you can get here:
-  ![How to get your discord token](https://linuxhint.com/get-discord-token/)
+  [How to get your discord token](https://linuxhint.com/get-discord-token/)
   
   Replace the CHANNEL_ID_TO_BE_FAKE_TYPED_IN with your channel id which you can get here:
-  ![How to get a discord channel id](https://turbofuture.com/internet/Discord-Channel-ID)
+  [How to get a discord channel id](https://turbofuture.com/internet/Discord-Channel-ID)
   
   Then is should look something like this:
   ![exampleimg0](https://cdn.discordapp.com/attachments/1027204530644988004/1046819611464699917/exampleimg0.png)
