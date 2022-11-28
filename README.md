@@ -7,6 +7,17 @@ Makes your discord account look like it is always typing in a certain channel
   sudo apt-get install python3-pip
   sudo apt-get install python3
   git clone https://github.com/Venu2HD/Always-typing-discord-prank.git
+  ```
+  Replace the YOUR_DISCORD_TOKEN in settings.json with your discord token which you can get here:
+  [How to get your discord token](https://linuxhint.com/get-discord-token/)
+
+  Replace the CHANNEL_ID_TO_BE_FAKE_TYPED_IN in settings.json with your channel id which you can get here:
+  [How to get a discord channel id](https://turbofuture.com/internet/Discord-Channel-ID)
+
+  Then is should look something like this:
+
+  ![exampleimg0](https://cdn.discordapp.com/attachments/1027204530644988004/1046819611464699917/exampleimg0.png)
+  ```
   cd Always-typing-discord-prank
   python3 main.py
   ```
@@ -17,6 +28,17 @@ Makes your discord account look like it is always typing in a certain channel
   Open a terminal
   ```
   git clone https://github.com/Venu2HD/Always-typing-discord-prank.git
+  ```
+  Replace the YOUR_DISCORD_TOKEN in settings.json with your discord token which you can get here:
+  [How to get your discord token](https://linuxhint.com/get-discord-token/)
+
+  Replace the CHANNEL_ID_TO_BE_FAKE_TYPED_IN in settings.json with your channel id which you can get here:
+  [How to get a discord channel id](https://turbofuture.com/internet/Discord-Channel-ID)
+
+  Then is should look something like this:
+
+  ![exampleimg0](https://cdn.discordapp.com/attachments/1027204530644988004/1046819611464699917/exampleimg0.png)
+  ```
   cd Always-typing-discord-prank
   python3 main.py
   ```
@@ -33,10 +55,10 @@ Makes your discord account look like it is always typing in a certain channel
   ![unzipimg0](https://cdn.discordapp.com/attachments/1027204530644988004/1046756929185259530/unzip.jpg)
   ![unzipimg1](https://cdn.discordapp.com/attachments/1027204530644988004/1046759736906874941/unzip.png)
   
-  Replace the YOUR_DISCORD_TOKEN with your discord token which you can get here:
+  Replace the YOUR_DISCORD_TOKEN in settings.json with your discord token which you can get here:
   [How to get your discord token](https://linuxhint.com/get-discord-token/)
   
-  Replace the CHANNEL_ID_TO_BE_FAKE_TYPED_IN with your channel id which you can get here:
+  Replace the CHANNEL_ID_TO_BE_FAKE_TYPED_IN in settings.json with your channel id which you can get here:
   [How to get a discord channel id](https://turbofuture.com/internet/Discord-Channel-ID)
   
   Then is should look something like this:
